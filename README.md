@@ -1,4 +1,4 @@
-# RaziCTF-Writeups
+# VulconCTF-Writeups
 
 ![scoreboard.png](Scoreboard.png)
 
